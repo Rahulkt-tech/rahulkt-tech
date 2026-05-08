@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Rahul KT</h1>
 
 <h3 align="center">
@@ -67,4 +66,3 @@ B.Tech CSE Student at IIIT Kottayam | Full Stack Developer | DSA Enthusiast
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact" alt="langs" />
 </p>
-```
