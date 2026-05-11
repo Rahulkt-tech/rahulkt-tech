@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://github.com/Rahulkt-tech/rahulkt-tech/blob/main/Gemini_Generated_Image_p02opp02opp02opp.png?raw=true" alt="banner" width="100%" /> </p>
 <h1 align="center">Hi 👋, I'm Rahul KT</h1>
 
 <h3 align="center">
