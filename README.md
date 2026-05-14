@@ -23,7 +23,7 @@ B.Tech CSE Student at IIIT Kottayam | Full Stack Developer | DSA Enthusiast
 ---
 
 <p align="center">
-<a href="https://github.com/Rahulkt-tech/rahulkt-tech/blob/main/Resume.pdf?raw=true" target="_blank">
+<a href="https://raw.githubusercontent.com/Rahulkt-tech/rahulkt-tech/main/Resume.pdf" target="_blank">
 <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
 </p>
