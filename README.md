@@ -16,6 +16,7 @@ B.Tech CSE Student at IIIT Kottayam | Full Stack Developer | DSA Enthusiast
 ---
 
 - 📫 Reach me at: **rahulkt5909@gmail.com**
+- 🌍 Know more about me at: **https://rahulkt-portfolio.vercel.app**
 - 🌐 LinkedIn: **https://www.linkedin.com/in/rahul-kt-6b381a3a2/**
 
 ---
