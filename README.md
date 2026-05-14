@@ -1,4 +1,5 @@
 <p align="center"> <img src="https://github.com/Rahulkt-tech/rahulkt-tech/blob/main/Gemini_Generated_Image_p02opp02opp02opp.png?raw=true" alt="banner" width="100%" /> </p>
+
 <h1 align="center">Hi 👋, I'm Rahul KT</h1>
 
 <h3 align="center">
@@ -18,6 +19,14 @@ B.Tech CSE Student at IIIT Kottayam | Full Stack Developer | DSA Enthusiast
 - 📫 Reach me at: **rahulkt5909@gmail.com**
 - 🌍 Know more about me at: **https://rahulkt-portfolio.vercel.app**
 - 🌐 LinkedIn: **https://www.linkedin.com/in/rahul-kt-6b381a3a2/**
+
+---
+
+<p align="center">
+<a href="https://github.com/Rahulkt-tech/rahulkt-tech/blob/main/Resume.pdf?raw=true" target="_blank">
+<img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+</p>
 
 ---
 
@@ -58,13 +67,13 @@ B.Tech CSE Student at IIIT Kottayam | Full Stack Developer | DSA Enthusiast
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahulkt-tech&show_icons=true&locale=en" alt="stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulkt-tech&" alt="streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulkt-tech&show_icons=true&locale=en&layout=compact" alt="langs" />
 </p>
